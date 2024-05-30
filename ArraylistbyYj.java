@@ -10,6 +10,7 @@ public class ArraylistbyYj{
         Games.add("volleyball");
         Games.add("cricket");
         System.out.print(Games);
+                System.out.println("here is the second Game");
         System.out.println(Games.get(2));
     }
 
